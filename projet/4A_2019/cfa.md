@@ -12,3 +12,5 @@
   * GAU Julia (Juyya), LOUBER Allan (neech), NESARATNAM Kantharuban (kantNs)
 * (4) https://github.com/gabrielmdrd/supermarket-receipt
   * Mohand ABDELOUHAB, Gabriel MANDRAUD, Mouhamed OUMAROU GARBA, Thomas MORDOH
+* (3) https://github.com/turgodi/supermarket-receipt
+  * Hugo DALBOUSSIERE (turgodi), Arthur CATRISSE (MystPig), Eric LONGUEVILLE (EscalusFR)
